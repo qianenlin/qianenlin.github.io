@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Enlin Qian"
-description              : "Postdoc researcher at the Department of Medical Physics in Memorial Sloan Kettering Cancer Center (MSKCC). Full time researcher, part time pianist, casual chess player"
+description              : "Postdoc researcher at the Department of Medical Physics in MSKCC. Full time researcher, part time pianist, casual chess player"
 repository               : "qianenlin/qianenlin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Enlin Qian"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Memorial Sloan Kettering Cancer Center"
+  bio              : "Memorial Sloan Kettering Cancer Center (MSKCC)"
   location         : "New York, NY, USA"
   employer         :
   pubmed           : 
