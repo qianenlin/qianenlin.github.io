@@ -6,11 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "<center>Enlin Qian</center>"
-description              : "<center>Postdoc researcher at the Department of Medical Physics in MSKCC</center> 
-                            <center>Full time researcher</center> 
-                            <center>Part time pianist</center>  
-                            <center>Casual chess player</center>"
+title                    : "Enlin Qian personal page"
+description              : "<center>Post-doc researcher at MSKCC</center>"
 repository               : "qianenlin/qianenlin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Enlin Qian"
+  name             : "<center>Enlin Qian</center>"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "<center>Memorial Sloan Kettering Cancer Center (MSKCC)</center>"
   location         : "New York, NY, USA"
