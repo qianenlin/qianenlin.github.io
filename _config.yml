@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "<center>Enlin Qian</center>"
-description              : "<center>Postdoc researcher at the Department of Medical Physics in MSKCC. Full time researcher, part time pianist, casual chess player</center>"
+description              : "<center>Postdoc researcher at the Department of Medical Physics in MSKCC</center> 
+                            <center>Full time researcher</center> 
+                            <center>Part time pianist</center>  
+                            <center>Casual chess player</center>"
 repository               : "qianenlin/qianenlin.github.io"
 google_scholar_stats_use_cdn : true
 
