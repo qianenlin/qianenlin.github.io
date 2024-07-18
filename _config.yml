@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Enlin Qian"
-description              : "Postdoc researcher at the Department of Medical Physics in MSKCC. Full time researcher, part time pianist, casual chess player"
+title                    : "<center>Enlin Qian</center>"
+description              : "<center>Postdoc researcher at the Department of Medical Physics in MSKCC. Full time researcher, part time pianist, casual chess player</center>"
 repository               : "qianenlin/qianenlin.github.io"
 google_scholar_stats_use_cdn : true
 
