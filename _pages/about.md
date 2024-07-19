@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests include novel methods and applications of MR fingerprinting, MR thermometry, MR safety, and deep learning based methods in MR image reconstruction.
+I am currently a post-doc researcher at MSKCC in New York, NY. My research interests include novel methods and applications of MR fingerprinting, MR thermometry, MR safety, and deep learning-based methods in MR image reconstruction.
 
 # 📖 Educations
 - *2018 - 2024*, PhD, Biomedical Engineering, Columbia University, New York, NY
